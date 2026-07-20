@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Here is information about me. Let’s try to change something."
+  },
+  {
+    "objectID": "works.html",
+    "href": "works.html",
+    "title": "Works",
+    "section": "",
+    "text": "Here are my works."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Here is how to get in touch with me."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This is the home page.\n\n\nHere is where a picture could go."
+  }
+]
