@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-Here is information about me. Let's try to change something. 
+Here is information about me.
