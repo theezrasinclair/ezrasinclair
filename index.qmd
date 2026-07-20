@@ -1,0 +1,19 @@
+---
+title: "Home"
+---
+
+:::: {layout="[ 60, 40 ]"}
+
+::: {#first-column}
+This is the home page.
+:::
+
+::: {#second-column}
+Here is where a picture could go.
+:::
+
+::::
+
+
+::: {.column-margin}
+:::
